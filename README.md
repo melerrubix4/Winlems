@@ -212,4 +212,4 @@ WinLems is provided as a full free version, with all features and updates includ
 Download WinLems today and dive back into a classic gaming experience with all the features you love! Enjoy your adventure guiding the Lemmings to safety!
 
 ---
-**Last updated:** 2026-10-06 22:16:36 UTC
+**Last updated:** 2026-10-07 02:02:47 UTC
